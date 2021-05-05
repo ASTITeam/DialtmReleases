@@ -3,10 +3,11 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-community_netinfo</artifactId>
   <versioning>
-    <release>4.1.5-dialtm-4876169</release>
+    <release>4.1.5-dialtm-4876170</release>
     <versions>
       <version>4.1.5-dialtm-4876169</version>
+      <version>4.1.5-dialtm-4876170</version>
     </versions>
-    <lastUpdated>20210505090604</lastUpdated>
+    <lastUpdated>20210505131201</lastUpdated>
   </versioning>
 </metadata>
