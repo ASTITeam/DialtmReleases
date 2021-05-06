@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-file-selector</artifactId>
+  <version>1.0.0-dialtm-4876171</version>
+  <packaging>aar</packaging>
+  <name>react-native-file-selector</name>
+  <description>React Native: Native File Selector</description>
+  <url>https://github.com/prscX/react-native-file-selector.git</url>
+  <licenses>
+    <license>
+      <name>Apache License</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.nbsp</groupId>
+      <artifactId>materialfilepicker</artifactId>
+      <version>1.9.1</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.appcompat</groupId>
+      <artifactId>appcompat</artifactId>
+      <version>1.1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>androidx.legacy</groupId>
+      <artifactId>legacy-support-v4</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native</artifactId>
+      <version>0.61.3</version>
+    </dependency>
+  </dependencies>
+</project>

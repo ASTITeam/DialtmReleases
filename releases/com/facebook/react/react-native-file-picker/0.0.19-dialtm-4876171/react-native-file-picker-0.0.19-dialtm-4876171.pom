@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-file-picker</artifactId>
+  <version>0.0.19-dialtm-4876171</version>
+  <packaging>aar</packaging>
+  <name>react-native-file-picker</name>
+  <description>A React Native module that allows you to use native UI to select file from the device library on Android</description>
+  <url>https://github.com/luisfuertes/react-native-file-picker#readme</url>
+  <licenses>
+    <license>
+      <name>ISC</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <dependencies>
+    <dependency>
+      <groupId>com.facebook.react</groupId>
+      <artifactId>react-native</artifactId>
+      <version>0.61.3</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.5</version>
+    </dependency>
+  </dependencies>
+</project>
