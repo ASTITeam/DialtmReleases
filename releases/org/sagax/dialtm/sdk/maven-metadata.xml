@@ -3,7 +3,7 @@
   <groupId>org.sagax.dialtm</groupId>
   <artifactId>sdk</artifactId>
   <versioning>
-    <release>1.0.16-SNAPSHOT-01</release>
+    <release>1.0.16-dtprod</release>
     <versions>
       <version>1.0.15-SNAPSHOT-02</version>
       <version>1.0.15-SNAPSHOT-03</version>
@@ -11,7 +11,8 @@
       <version>1.0.15-stable</version>
       <version>1.0.16-SNAPSHOT-00</version>
       <version>1.0.16-SNAPSHOT-01</version>
+      <version>1.0.16-dtprod</version>
     </versions>
-    <lastUpdated>20210723154053</lastUpdated>
+    <lastUpdated>20210731123643</lastUpdated>
   </versioning>
 </metadata>
